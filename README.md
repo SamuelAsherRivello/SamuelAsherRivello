@@ -1,4 +1,22 @@
-<img src="https://camo.githubusercontent.com/190338430fb2eca4d172a1987205c5e073b2de72db46cb4ed12cf1c2fa32041a/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f645765734263544c61766b5a754733354d492f67697068792e676966" />
+### Hello : )
+
+
+
+I live and breathe gaming and education!
+
+With over 20 years of experience making great games, I not only follow the latest innovations – I define them.
+
+My passion is to develop Web3 for Unity and to offer education through online Unity courses and live classes.
+
+### Mission
+* To educate and entertain with interactive technology ( Web3 / Unity / Games / AR / VR )
+* To champion best practices, coding standards, and education
+
+### Stats
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SamuelAsherRivello&theme=dark&background=000000)](https://git.io/streak-stats)
+
+### Links
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/samuelasherrivello/">
