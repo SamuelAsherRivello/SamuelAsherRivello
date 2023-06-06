@@ -1,7 +1,5 @@
 ### Hello : )
 
-
-
 I live and breathe gaming and education!
 
 With over 20 years of experience making great games, I not only follow the latest innovations – I define them.
@@ -15,8 +13,6 @@ My passion is to develop Web3 for Unity and to offer education through online Un
 ### Stats
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SamuelAsherRivello&theme=dark&background=000000)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelAsherRivello)](https://github.com/SamuelAsherRivello/github-readme-stats)
 
 ### Links
 
