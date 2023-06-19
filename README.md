@@ -10,9 +10,13 @@ My passion is to develop Web3 for Unity and to offer education through online Un
 * To educate and entertain with interactive technology ( Web3 / Unity / Games / AR / VR )
 * To champion best practices, coding standards, and education
 
-### Stats
+### Roles
+* Unity Game Dev
+* Unity Game Dev Instructor
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SamuelAsherRivello&theme=dark&background=000000)](https://git.io/streak-stats)
+### Available!
+
+* For remote, contract hire = [SamuelAsherRivello.com/contact/](https://www.samuelasherrivello.com/contact/)
 
 ### Links
 
@@ -27,3 +31,9 @@ My passion is to develop Web3 for Unity and to offer education through online Un
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
+
+### Stats
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SamuelAsherRivello&theme=dark&background=000000)](https://git.io/streak-stats)
+
+
