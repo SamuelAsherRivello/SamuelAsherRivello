@@ -16,7 +16,18 @@ My passion is to develop Web3 for Unity and to offer education through online Un
 
 ### Available!
 
-* For remote, contract hire = [SamuelAsherRivello.com/contact/](https://www.samuelasherrivello.com/contact/)
+* Remote, Contract Hire: [SamuelAsherRivello.com/contact/](https://www.samuelasherrivello.com/contact/)
+
+### Videos
+
+<table>
+<tr>
+<td>
+<a href="https://www.youtube.com/@SamuelAsherRivello"><img width="500" src="https://i3.ytimg.com/vi/1s_FFhy0948/maxresdefault.jpg" /></a>
+</td>
+</tr>
+</table>
+
 
 ### Links
 
