@@ -18,7 +18,7 @@ My passion is to develop Web3 for Unity and to offer education through online Un
 
 * Remote, Contract Hire: [SamuelAsherRivello.com/contact/](https://www.samuelasherrivello.com/contact/)
 
-### Videos
+### My Videos
 
 <table>
 <tr>
@@ -28,8 +28,21 @@ My passion is to develop Web3 for Unity and to offer education through online Un
 </tr>
 </table>
 
+### My Tech Stack
 
-### Links
+<div id="badges">
+  <a href="https://unity.com/">
+    <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Unity-Dark.svg" alt="Badge"/>
+  </a>
+  <a href="https://www.jetbrains.com/rider/">
+    <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Rider-Dark.svg" alt="Badge"/>
+  </a>
+    <a href="XXXXXXXXXXXX">
+    <img src="XXXXXXXXXXXXXXX" alt="Badge"/>
+  </a>
+</div>
+
+### My Links
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/samuelasherrivello/">
@@ -43,7 +56,7 @@ My passion is to develop Web3 for Unity and to offer education through online Un
   </a>
 </div>
 
-### Stats
+### My Stats
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SamuelAsherRivello&theme=dark&background=000000)](https://git.io/streak-stats)
 
