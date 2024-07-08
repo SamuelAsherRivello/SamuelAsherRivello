@@ -38,7 +38,7 @@ My passion is to develop Web3 for Unity and to offer education through online Un
     <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Rider-Dark.svg" width = "64" height="64" alt="Badge"/>
   </a>
     <a href="https://learn.microsoft.com/en-us/dotnet/csharp/">
-    <img src="https://scontent-mia3-1.xx.fbcdn.net/v/t39.30808-6/307445775_128304529965252_514747935435881564_n.png?_nc_cat=106&cb=99be929b-8d691acd&ccb=1-7&_nc_sid=efb6e6&_nc_eui2=AeGQL-CA6PM3J1lyaaVCNzLNaSCT_HmNlMFpIJP8eY2UwVD-685hrPTSELajTo0nwf4&_nc_ohc=9hLEm1FjV_kAX8icwFx&_nc_ht=scontent-mia3-1.xx&cb_e2o_trans=t&oh=00_AfDmZ9NXuBtQgN4YbEFCEvrkhi8VopMaBZbjxunP2Q2HPA&oe=65DFE03A" width = "64" height="64" alt="Badge"/>
+    <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" width = "64" height="64" alt="Badge"/>
   </a>
 </div>
 
