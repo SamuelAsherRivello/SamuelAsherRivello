@@ -1,4 +1,19 @@
-### Hello : )
+<div id="badges">
+  <a href="https://www.linkedin.com/in/samuelasherrivello/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://SamuelAsherRivello.com">
+   <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=%2302A8EF" alt="Twitter Badge"/>
+  </a>
+    <a href="https://www.youtube.com/@SamuelAsherRivello">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="https://twitter.com/srivello">
+   <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
+
+# Hello : )
 
 I live and breathe gaming and education!
 
@@ -18,9 +33,10 @@ With over 20 years of experience making great games, I not only follow the lates
 * Game Developer Instructor
 
 ### Available!
+* Portfolio: [SamuelAsherRivello.com/](https://www.samuelasherrivello.com)
 * Remote Hire: [SamuelAsherRivello.com/contact/](https://www.samuelasherrivello.com/contact/)
 
-### My Videos
+### Videos
 
 <table>
 <tr>
@@ -30,7 +46,15 @@ With over 20 years of experience making great games, I not only follow the lates
 </tr>
 </table>
 
-### Tech Stack
+<BR>
+
+# More
+
+### Tech Stacks
+
+<BR>
+
+**Unity Games**
 
 <div id="badges">
   <a href="https://unity.com/">
@@ -40,17 +64,60 @@ With over 20 years of experience making great games, I not only follow the lates
     <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Rider-Dark.svg" width = "64" height="64" alt="Badge"/>
   </a>
     <a href="https://learn.microsoft.com/en-us/dotnet/csharp/">
-    <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" width = "64" height="64" alt="Badge"/>
+    <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/CS.svg" width = "64" height="64" alt="Badge"/>
   </a>
 </div>
 
-### Links
+<BR>
+
+**Godot Games**
+
+<div id="badges">
+  <a href="https://godotengine.com/">
+    <img src="https://godotengine.org/assets/press/icon_color.png" width = "64" height="64" alt="Badge"/>
+  </a>
+  <a href="https://www.jetbrains.com/rider/">
+    <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Rider-Dark.svg" width = "64" height="64" alt="Badge"/>
+  </a>
+    <a href="https://learn.microsoft.com/en-us/dotnet/csharp/">
+    <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/CS.svg" width = "64" height="64" alt="Badge"/>
+  </a>
+</div>
+
+<BR>
+
+**Html5 Games**
+
+<div id="badges">
+  <a href="https://html.com/html5/">
+    <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/HTML.svg" width = "64" height="64" alt="Badge"/>
+  </a>
+  <a href="https://code.visualstudio.com/">
+    <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/VSCode-Dark.svg" width = "64" height="64" alt="Badge"/>
+  </a>
+    <a href="https://www.typescriptlang.org/">
+    <img src="https://www.svgrepo.com/show/374146/typescript-official.svg" width = "64" height="64" alt="Badge"/>
+  </a>
+</div>
+
+<BR>
+
+
+### Stats
+
+![Samuel Asher Rivello's GitHub stats](https://github-readme-stats.vercel.app/api?username=SamuelAsherRivello&hide=issues,contribs&theme=dracula)
+
+
+### Contact
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/samuelasherrivello/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.youtube.com/@SamuelAsherRivello">
+  <a href="https://SamuelAsherRivello.com">
+   <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=%2302A8EF" alt="Twitter Badge"/>
+  </a>
+    <a href="https://www.youtube.com/@SamuelAsherRivello">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
   <a href="https://twitter.com/srivello">
@@ -58,8 +125,7 @@ With over 20 years of experience making great games, I not only follow the lates
   </a>
 </div>
 
-### Stats
+<BR>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SamuelAsherRivello&theme=dark&background=000000)](https://git.io/streak-stats)
 
 
