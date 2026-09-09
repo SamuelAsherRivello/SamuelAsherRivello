@@ -20,7 +20,7 @@ I live and breathe gaming and education!
 With over 20 years of experience making great games, I not only follow the latest innovations – I define them.
 
 ### Mission  
-* To educate and entertain with interactive technology ( Architecture, Gameplay, Prototyping, Tools )
+* To educate and entertain with interactive technology ( Architecture, Blockchain, Gameplay, Prototyping, Tools, Web3 )
 * To champion best practices, coding standards, and education
 
 ### Specialities  
@@ -32,7 +32,7 @@ With over 20 years of experience making great games, I not only follow the lates
 * Game Developer
 * Game Developer Instructor
 
-### Available!
+### Available For Hire!
 * Portfolio: [SamuelAsherRivello.com/](https://www.samuelasherrivello.com)
 * Remote Hire: [SamuelAsherRivello.com/contact/](https://www.samuelasherrivello.com/contact/)
 
@@ -97,6 +97,40 @@ With over 20 years of experience making great games, I not only follow the lates
   </a>
     <a href="https://www.typescriptlang.org/">
     <img src="https://www.svgrepo.com/show/374146/typescript-official.svg" width = "64" height="64" alt="Badge"/>
+  </a>
+</div>
+
+<BR>
+
+<BR>
+
+**Web3 Games**
+
+<div>
+  <a href="https://soliditylang.org/">
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Solidity.svg" width="64" height="64" alt="Solidity"/>
+  </a>
+  <a href="https://code.visualstudio.com/">
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VSCode-Dark.svg" width="64" height="64" alt="Visual Studio Code"/>
+  </a>
+  <a href="https://www.typescriptlang.org/">
+    <img src="https://www.svgrepo.com/show/374146/typescript-official.svg" width="64" height="64" alt="TypeScript"/>
+  </a>
+</div>
+
+<BR>
+
+**Bitcoin Games**
+
+<div>
+  <a href="https://bitcoin.org/">
+    <img src="https://raw.githubusercontent.com/spothq/cryptocurrency-icons/master/svg/color/btc.svg" width="64" height="64" alt="Bitcoin"/>
+  </a>
+  <a href="https://code.visualstudio.com/">
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VSCode-Dark.svg" width="64" height="64" alt="Visual Studio Code"/>
+  </a>
+  <a href="https://www.typescriptlang.org/">
+    <img src="https://www.svgrepo.com/show/374146/typescript-official.svg" width="64" height="64" alt="TypeScript"/>
   </a>
 </div>
 
