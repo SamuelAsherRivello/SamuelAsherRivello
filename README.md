@@ -34,7 +34,8 @@ With over 20 years of experience making great games, I not only follow the lates
 
 ### Available For Hire!
 * Portfolio: [SamuelAsherRivello.com/](https://www.samuelasherrivello.com)
-* Remote Hire: [SamuelAsherRivello.com/contact/](https://www.samuelasherrivello.com/contact/)
+* Resume: [SamuelAsherRivello.com/contact/](https://www.samuelasherrivello.com/contact/)
+* Contact: [SamuelAsherRivello.com/contact/](https://www.samuelasherrivello.com/contact/)
 
 ### Videos
 
