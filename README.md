@@ -102,8 +102,6 @@ With over 20 years of experience making great games, I not only follow the lates
 
 <BR>
 
-<BR>
-
 **Web3 Games**
 
 <div>
@@ -139,7 +137,7 @@ With over 20 years of experience making great games, I not only follow the lates
 
 ### Stats
 
-![Samuel Asher Rivello's GitHub stats](https://github-readme-stats.vercel.app/api?username=SamuelAsherRivello&hide=issues,contribs&theme=dracula)
+![Samuel Asher Rivello's GitHub stats](https://github-stats-extended.vercel.app/api?username=SamuelAsherRivello&hide=issues,contribs&theme=dracula)
 
 
 ### Contact
